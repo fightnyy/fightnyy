@@ -36,6 +36,10 @@
  </p>
 
 
+ ####  <p align = "center">  🤪What Editor Do I Use?🤪 </p>
+ <p align = "center">
+      <img src="https://wakatime.com/share/@a8631d72-fc52-4b07-ac58-dbf819ad8f1f/c47efa25-028d-4d93-87a3-8e10ab1a764f.svg" height="400">
+ </p>
 
 
 
