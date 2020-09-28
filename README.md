@@ -10,7 +10,7 @@
 ### I gave a variety of interest and I am always learning something new.
 
 
-  #### < <p align = "center">>github_commit</p>
+  ####  <p align = "center">github_commit</p>
 
   <p align = "center">
     <img src="https://github-readme-stats.vercel.app/api?username=fightnyy&show_icons=true"/>
