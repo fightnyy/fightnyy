@@ -1,11 +1,11 @@
-### To Be DATASCIENTIST & BACKEND DEVELOPER
+## To Be DATASCIENTIST & BACKEND DEVELOPER
 
 <hr>
 
 
-:wave: Hello, My name is Yougyun and I "heart" **Python**
+### :wave: Hello, My name is Yougyun and I "heart" **Python**
 
-I gave a variety of interest nad I am always learning something new.
+### I gave a variety of interest nad I am always learning something new.
 
 
 <hr>
