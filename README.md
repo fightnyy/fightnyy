@@ -1,5 +1,5 @@
-### Hi there 👋
-### Hello there 🐰
+### To Be DATASCIENTIST & BACKEND DEVELOPER
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fightnyy)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **fightnyy/fightnyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
