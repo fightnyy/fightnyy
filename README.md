@@ -24,4 +24,6 @@
 <p>
 
 
- 
+- 🔭 I’m currently working on NLP especilly about Dialogue Bot (ChatBot)
+- 🌱 I’m currently learning Huggingface with 
+- 📫 How to reach me: <email>fightnyy@ajou.ac.kr</email>
