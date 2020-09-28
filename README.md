@@ -20,16 +20,20 @@
 
 
 
- ####                        😈Whole_Commit😈                                                 🤪What Language Do I Use?🤪
+ #### 😈Whole_Commit😈                                                 🤪What Language Do I Use?🤪
 
    <p align = "left">
        <img src="https://wakatime.com/share/@a8631d72-fc52-4b07-ac58-dbf819ad8f1f/f13c143a-eabe-4d8b-9324-e8528c5bd78f.svg" height="300"/ style="margin-right: 100px; margin-left: 20px">
-      <img src="https://wakatime.com/share/@a8631d72-fc52-4b07-ac58-dbf819ad8f1f/258031e5-2a2c-4e2e-bc7d-453001f6d98c.svg" height="300">
    </p>
+   
+   
+   
 
 
- #### 
-
+ ####  🤪What Language Do I Use?🤪
+ <p align = "left">
+      <img src="https://wakatime.com/share/@a8631d72-fc52-4b07-ac58-dbf819ad8f1f/258031e5-2a2c-4e2e-bc7d-453001f6d98c.svg" height="300">
+ </p>
 
 
 
