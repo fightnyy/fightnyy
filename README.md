@@ -5,7 +5,8 @@
 
 
 
-### :wave: Hello, My name is Yougyun and I :heart: **Python** <br> I gave a variety of interest and I am always learning something new.
+### :wave: Hello, My name is Yougyun and I :heart: **Python**  
+### 🤗I gave a variety of interest and I am always learning something new.🤗
 
 
 
@@ -36,7 +37,7 @@
  </p>
 
 
- ####  <p align = "center">  🤪What Editor Do I Use?🤪 </p>
+ ##  <p align = "center">  🤪What Editor Do I Use?🤪 </p>
  <p align = "center">
       <img src="https://wakatime.com/share/@a8631d72-fc52-4b07-ac58-dbf819ad8f1f/e70abf43-3fd5-4026-bdf0-5f12ada4cc57.svg" height="400">
  </p>
