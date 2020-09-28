@@ -20,14 +20,14 @@
 
  #### whole_commit
 
-   <p align = "center">
-       <img src="https://wakatime.com/share/@a8631d72-fc52-4b07-ac58-dbf819ad8f1f/f13c143a-eabe-4d8b-9324-e8528c5bd78f.svg" height="400"/>
+   <p align = "left">
+       <img src="https://wakatime.com/share/@a8631d72-fc52-4b07-ac58-dbf819ad8f1f/f13c143a-eabe-4d8b-9324-e8528c5bd78f.svg" height="200"/>
    <p>
 
  #### What Language Do I Use?
   
-  <p align = "center">
-    <img src="https://wakatime.com/share/@a8631d72-fc52-4b07-ac58-dbf819ad8f1f/258031e5-2a2c-4e2e-bc7d-453001f6d98c.svg">
+  <p align = "right">
+    <img src="https://wakatime.com/share/@a8631d72-fc52-4b07-ac58-dbf819ad8f1f/258031e5-2a2c-4e2e-bc7d-453001f6d98c.svg" height="200">
   </p>
 
 
