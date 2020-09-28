@@ -5,12 +5,12 @@
 
 
 
-### :wave: Hello, My name is Yougyun and I :heart: **Python**
-
-### I gave a variety of interest and I am always learning something new.
+### :wave: Hello, My name is Yougyun and I :heart: **Python** <br> I gave a variety of interest and I am always learning something new.
 
 
-  ####  <p align = "center">github_commit</p>
+
+
+  ##  <p align = "center">github_commit</p>
 
   <p align = "center">
     <img src="https://github-readme-stats.vercel.app/api?username=fightnyy&show_icons=true"/>
@@ -20,7 +20,7 @@
 
 
 
- #### <p align= "center"> 😈Whole_Commit😈 </p>                                                 
+ ## <p align= "center"> 😈Whole_Commit😈 </p>                                                 
 
    <p align = "center">
        <img src="https://wakatime.com/share/@a8631d72-fc52-4b07-ac58-dbf819ad8f1f/f13c143a-eabe-4d8b-9324-e8528c5bd78f.svg" height="400"/>
@@ -30,7 +30,7 @@
    
 
 
- ####  <p align = "center">  🤪What Language Do I Use?🤪 </p>
+ ##  <p align = "center">  🤪What Language Do I Use?🤪 </p>
  <p align = "center">
       <img src="https://wakatime.com/share/@a8631d72-fc52-4b07-ac58-dbf819ad8f1f/258031e5-2a2c-4e2e-bc7d-453001f6d98c.svg" height="400">
  </p>
