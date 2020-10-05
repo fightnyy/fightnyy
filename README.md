@@ -6,7 +6,7 @@
 
 
 ### :wave: Hello, My name is Yougyun and I :heart: **Python**  and **Hugging face API**
-### 🤗I gave a variety of interest and I am always learning something new.🤗
+### 🤗I gave a variety of interest and I am always learning something new!🤗
 
 
 
