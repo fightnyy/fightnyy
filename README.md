@@ -44,7 +44,7 @@
 
 
 
-- 🔭 I’m currently working on NLP especilly about Dialogue Bot (ChatBot), And Django Project(Portfolio)
+- 🔭 I’m currently working on NLP especilly about Dialogue Bot (ChatBot), And Django Project
 - 🌱 I’m currently learning Huggingface with A lot of Paper
 - 📫 How to reach me: <email>fightnyy@ajou.ac.kr</email>
 <div align=center>
