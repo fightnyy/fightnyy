@@ -5,7 +5,7 @@
 
 
 
-### :wave: Hello, My name is Youngyun and I :heart: **Python**  and **JAVA****
+### :wave: Hello, My name is Youngyun and I :heart: **Python**  and **JAVA**
 ### 🤗I gave a variety of interest and I am always learning something new!🤗
 
 
