@@ -43,8 +43,7 @@
  </p>
  
  
-
-<center>[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=fightnyy)](https://solved.ac/fightnyy)</center>
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=fightnyy)](https://solved.ac/fightnyy)
 
 
 
