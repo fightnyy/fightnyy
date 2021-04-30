@@ -42,7 +42,7 @@
       <img src="https://wakatime.com/share/@a8631d72-fc52-4b07-ac58-dbf819ad8f1f/e70abf43-3fd5-4026-bdf0-5f12ada4cc57.svg" height="400">
  </p>
 <p align = "center">
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=fightnyy)](https://solved.ac/fightnyy)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kinetic27)](https://solved.ac/kinetic27)
 </p>
 
 
