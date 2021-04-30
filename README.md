@@ -41,9 +41,10 @@
  <p align = "center">
       <img src="https://wakatime.com/share/@a8631d72-fc52-4b07-ac58-dbf819ad8f1f/e70abf43-3fd5-4026-bdf0-5f12ada4cc57.svg" height="400">
  </p>
-
+<p align = "center">
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle}
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={fightnyy})](https://solved.ac/{fightnyy}
+</p>
 
 
 - 🔭 I’m currently working on NLP especilly about Dialogue Bot (ChatBot), And Backend tech using Spring Framework.
