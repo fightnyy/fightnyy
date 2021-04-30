@@ -43,7 +43,7 @@
  </p>
 <p align = "center">
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={fightnyy})](https://solved.ac/{fightnyy}
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=fightnyy)](https://solved.ac/fightnyy)
 </p>
 
 
