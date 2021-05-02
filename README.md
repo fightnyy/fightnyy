@@ -38,10 +38,12 @@
  </p>
  
  
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=fightnyy)](https://solved.ac/fightnyy)
-  ##  <p align = "right">github_commit</p>
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fightnyy&cache=c">
+</p>
+  ##  <p align = "center">github_commit</p>
 
-  <p align = "right">
+  <p align = "center">
     <img src="https://github-readme-stats.vercel.app/api?username=fightnyy&show_icons=true"/>
   <p>
 
