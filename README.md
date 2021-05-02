@@ -10,10 +10,15 @@
 
 
 
-
-
-
-
+##  <p align = "center">github_commit</p>
+<p align = "center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fightnyy&show_icons=true"/>
+<p>
+ 
+## <p align = "center">solved.ac</p>
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fightnyy&cache=c">
+</p>
 
 
  ## <p align= "center"> 😈Time Spending on Coding😈 </p>                                                 
@@ -38,17 +43,6 @@
  </p>
  
  
-<p align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fightnyy&cache=c">
-</p>
-
-##  <p align = "center">github_commit</p>
-<p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fightnyy&show_icons=true"/>
-<p>
-
-
-
 - 🔭 I’m currently working on NLP especilly about Dialogue Bot (ChatBot), And Backend tech using Spring Framework.
 - 📫 How to reach me: <email>fightnyy@ajou.ac.kr</email>
 <div align=center>
