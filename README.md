@@ -19,28 +19,6 @@
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fightnyy&cache=c">
 </p>
-
-
- ## <p align= "center"> 😈Time Spending on Coding😈 </p>                                                 
-
-   <p align = "center">
-       <img src="https://wakatime.com/share/@a8631d72-fc52-4b07-ac58-dbf819ad8f1f/f13c143a-eabe-4d8b-9324-e8528c5bd78f.svg" height="400"/>
-   </p>
-   
-   
-   
-
-
- ##  <p align = "center">  🤪What Language Do I Use?🤪 </p>
- <p align = "center">
-      <img src="https://wakatime.com/share/@a8631d72-fc52-4b07-ac58-dbf819ad8f1f/258031e5-2a2c-4e2e-bc7d-453001f6d98c.svg" height="400">
- </p>
-
-
- ##  <p align = "center">  🤩What Editor Do I Use?🤩 </p>
- <p align = "center">
-      <img src="https://wakatime.com/share/@a8631d72-fc52-4b07-ac58-dbf819ad8f1f/e70abf43-3fd5-4026-bdf0-5f12ada4cc57.svg" height="400">
- </p>
  
  
 - 🔭 I’m currently working on NLP especilly about DialoBot (Multi-lingual ChatBot), And Backend tech using Spring Framework.
