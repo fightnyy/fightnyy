@@ -21,8 +21,8 @@
 
 <br/>
 
-- 🔭 I'm working as a software engineer in TUNiB.
-- 📫 How to reach me: <email>felix.ai@tunib.ai</email>
+- 🔭 I'm working as a backend engineer in Dunamu.
+- 📫 How to reach me: <email>fightnyy@gmail.com</email>
 - 📎 Check my [CV](https://roan-manx-38f.notion.site/Felix-Resume-f052bc0847b54df6a0388ac8bfbb3704)
 <div align=center>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fujusy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
@@ -30,4 +30,4 @@
 
 
 
-updated 2022.06.15
+updated 2022.09.29
